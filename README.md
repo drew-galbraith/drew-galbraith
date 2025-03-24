@@ -21,4 +21,3 @@ Feel free to connect or check out my repositories to see what I’m working on!
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-galbraith&layout=compact)
-![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=drew-galbraith&theme=github)
