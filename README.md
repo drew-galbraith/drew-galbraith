@@ -1,16 +1,17 @@
 # Hi, I'm Drew Galbraith 👋
 
-I’m a developer with 8 years of experience building complex websites, database solutions, interactive PDF forms, and writing detailed documentation. Currently, I’m pursuing a bachelor's degree in Graphic Information Technology, focusing on Full Stack Development at Arizona State University.
+I’m a developer with 8 years of experience building complex websites, database solutions, interactive PDF forms, and writing detailed documentation. Currently, I’m pursuing a bachelor's degree in Graphic Information Technology, focusing on Full Stack Development at Arizona State University. 
 
 ## Technologies & Skills
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js
+- **Frameworks**: React, Node.js, Bootstrap, SPFx
 - **Database**: SQL, MongoDB
 - **Tools**: Git, GitHub, Visual Studio Code, Azure DevOps
 
 I specialize in web development, with expertise in technologies like JavaScript, React, and database solutions. I'm always looking for new challenges and ways to grow both personally and professionally.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-galbraith&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew0716&layout=compact)
 
 
 ## About Me
