@@ -18,3 +18,7 @@ Feel free to connect or check out my repositories to see what I’m working on!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drew%20Galbraith-blue)](https://www.linkedin.com/in/scubadrew0716/)
 [![Flickr Travel Album](https://img.shields.io/badge/Flickr-Travel%20Album-orange)](https://www.flickr.com/photos/drew-galbraith/albums/)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-galbraith&layout=compact)
+![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=drew-galbraith&theme=github)
