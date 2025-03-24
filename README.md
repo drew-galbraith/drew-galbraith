@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Drew Galbraith 👋
 
-<!--
-**drew-galbraith/drew-galbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer with 8 years of experience building complex websites, database solutions, interactive PDF forms, and writing detailed documentation. Currently, I’m pursuing a bachelor's degree in Graphic Information Technology, focusing on Full Stack Development at Arizona State University.
 
-Here are some ideas to get you started:
+## Technologies & Skills
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js
+- **Database**: SQL, MongoDB
+- **Tools**: Git, GitHub, Visual Studio Code, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in web development, with expertise in technologies like JavaScript, React, and database solutions. I'm always looking for new challenges and ways to grow both personally and professionally.
+
+## About Me
+Originally from South Florida, I now live in Northern Virginia with my family and our dog, Otto. When I'm not coding, I enjoy 3D printing, exploring new projects, and traveling—usually with a camera in hand.
+
+## Let's Connect!
+Feel free to connect or check out my repositories to see what I’m working on!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Drew%20Galbraith-blue)](https://www.linkedin.com/in/scubadrew0716/)
