@@ -17,3 +17,4 @@ Originally from South Florida, I now live in Northern Virginia with my family an
 Feel free to connect or check out my repositories to see what I’m working on!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drew%20Galbraith-blue)](https://www.linkedin.com/in/scubadrew0716/)
+[![Flickr Travel Album](https://img.shields.io/badge/Flickr-Travel%20Album-blue)](https://www.flickr.com/photos/drew-galbraith/albums/)
